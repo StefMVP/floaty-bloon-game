@@ -1,0 +1,212 @@
+{"frames": [
+
+{
+	"filename": "IconRounded.png",
+	"frame": {"x":878,"y":409,"w":57,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":58},
+	"sourceSize": {"w":57,"h":58}
+},
+{
+	"filename": "OneGreenDown.png",
+	"frame": {"x":961,"y":525,"w":55,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":55,"h":39},
+	"sourceSize": {"w":55,"h":43}
+},
+{
+	"filename": "OneGreenUp.png",
+	"frame": {"x":878,"y":469,"w":55,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":43},
+	"sourceSize": {"w":55,"h":43}
+},
+{
+	"filename": "OnePurpleDown.png",
+	"frame": {"x":847,"y":558,"w":55,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":39},
+	"sourceSize": {"w":55,"h":39}
+},
+{
+	"filename": "OnePurpleUp.png",
+	"frame": {"x":847,"y":514,"w":55,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":42},
+	"sourceSize": {"w":55,"h":42}
+},
+{
+	"filename": "OneYellowDown.png",
+	"frame": {"x":904,"y":525,"w":55,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":39},
+	"sourceSize": {"w":55,"h":39}
+},
+{
+	"filename": "OneYellowUp.png",
+	"frame": {"x":935,"y":481,"w":55,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":42},
+	"sourceSize": {"w":55,"h":42}
+},
+{
+	"filename": "PauseButton.png",
+	"frame": {"x":972,"y":2,"w":49,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":55},
+	"sourceSize": {"w":49,"h":55}
+},
+{
+	"filename": "PlayAgainButton.png",
+	"frame": {"x":607,"y":1049,"w":223,"h":178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":223,"h":178},
+	"sourceSize": {"w":223,"h":178}
+},
+{
+	"filename": "PlayAgainButtonPushed.png",
+	"frame": {"x":607,"y":869,"w":223,"h":178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":223,"h":178},
+	"sourceSize": {"w":223,"h":178}
+},
+{
+	"filename": "Player.png",
+	"frame": {"x":937,"y":409,"w":56,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":70},
+	"sourceSize": {"w":56,"h":70}
+},
+{
+	"filename": "PlayerString.png",
+	"frame": {"x":972,"y":147,"w":40,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":33},
+	"sourceSize": {"w":40,"h":33}
+},
+{
+	"filename": "Pop1.png",
+	"frame": {"x":878,"y":271,"w":130,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":136},
+	"sourceSize": {"w":130,"h":136}
+},
+{
+	"filename": "Pop2.png",
+	"frame": {"x":636,"y":271,"w":240,"h":236},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":236},
+	"sourceSize": {"w":240,"h":236}
+},
+{
+	"filename": "RateButton.png",
+	"frame": {"x":607,"y":689,"w":223,"h":178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":223,"h":178},
+	"sourceSize": {"w":223,"h":178}
+},
+{
+	"filename": "RatePushed.png",
+	"frame": {"x":622,"y":509,"w":223,"h":178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":223,"h":178},
+	"sourceSize": {"w":223,"h":178}
+},
+{
+	"filename": "ResumeButton.png",
+	"frame": {"x":639,"y":2,"w":331,"h":267},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":8,"w":331,"h":267},
+	"sourceSize": {"w":335,"h":297}
+},
+{
+	"filename": "ScoreScreen.png",
+	"frame": {"x":2,"y":615,"w":603,"h":433},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":16,"w":603,"h":433},
+	"sourceSize": {"w":605,"h":449}
+},
+{
+	"filename": "SpeedIncrease.png",
+	"frame": {"x":2,"y":2,"w":635,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":635,"h":175},
+	"sourceSize": {"w":635,"h":175}
+},
+{
+	"filename": "StartButton.png",
+	"frame": {"x":2,"y":1050,"w":474,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":474,"h":107},
+	"sourceSize": {"w":474,"h":107}
+},
+{
+	"filename": "StringLeft.png",
+	"frame": {"x":972,"y":103,"w":40,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":42},
+	"sourceSize": {"w":40,"h":42}
+},
+{
+	"filename": "StringRight.png",
+	"frame": {"x":972,"y":59,"w":40,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":42},
+	"sourceSize": {"w":40,"h":42}
+},
+{
+	"filename": "StringWaveOne.png",
+	"frame": {"x":622,"y":236,"w":12,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":55},
+	"sourceSize": {"w":12,"h":55}
+},
+{
+	"filename": "StringWaveTwo.png",
+	"frame": {"x":622,"y":179,"w":12,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":55},
+	"sourceSize": {"w":12,"h":55}
+},
+{
+	"filename": "Title.png",
+	"frame": {"x":2,"y":179,"w":618,"h":434},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":618,"h":434},
+	"sourceSize": {"w":618,"h":434}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "sprites.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c7c22eb12a20ee48fec738b04342a99d:3c3c65b9262ada5a5243b3895465f105:1eabdf11f75e3a4fe3147baf7b5be24b$"
+}
+}
