@@ -17,3 +17,9 @@ Featuring endless gameplay and a focus on achieving high scores, Floaty Bloon of
 # Other
 
 The app was first released in 2014 and would need updates to work on new devices and platforms.
+
+# Who
+
+Developer: Stefan Ralston
+Developer: Matthew Richardson
+Art: Travis Goodspeed
